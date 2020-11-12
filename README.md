@@ -9,11 +9,11 @@
 <br>
 
 <p align="center">
-  <img alt="site" src=".github/site1.PNG" width="450px" height="600px">
+  <img alt="site" src=".github/site1.PNG" width="600px" height="500px">
 </p>
 
 <p align="center">
-  <img alt="site" src=".github/site2.PNG" width="450px" height="600px">
+  <img alt="site" src=".github/site2.PNG" width="600px" height="500px">
 </p>
 
 ## GoStack - Sexto desafio React
